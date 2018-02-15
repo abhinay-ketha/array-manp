@@ -19,13 +19,9 @@ var array =
 
 [
 {
-
     "time": "2018-02-09T06:36:07.650Z",
-
     "dialogue": "Hi,chatbot",
-
     "speaker": "user"
-
 },
 
 {
