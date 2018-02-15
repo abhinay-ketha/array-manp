@@ -51,5 +51,5 @@ var data = [
         "speaker": "bot"
     }
 ]
-var result = manp.groupByOccurance(data, 'speaker')
+var result = manp.groupByAdjacence(data, 'speaker')
 console.log(JSON.stringify(result))

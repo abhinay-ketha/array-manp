@@ -69,7 +69,7 @@ var array = [
 
 var arrayManpulator = require('array-manp');
 
-var result = arrayManpulator.groupByOccurance(data,'speaker)
+var result = arrayManpulator.groupByAdjacence(data,'speaker')
 
 //Expected result value
 

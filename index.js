@@ -1,6 +1,6 @@
 "use strict"
 
-module.exports.groupByOccurance = function (array,key) {
+module.exports.groupByAdjacence = function (array,key) {
 
     var arr = array.map(function (item, index, arr) {
         if (index == 0)
