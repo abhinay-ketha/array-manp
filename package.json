@@ -1,0 +1,14 @@
+{
+  "name": "array-manp",
+  "version": "1.0.0",
+  "description": "Array manipulation containing JSON objects,grouping of adjacent objects based on object property",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinay",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.5"
+  }
+}
