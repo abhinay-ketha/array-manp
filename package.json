@@ -1,6 +1,6 @@
 {
   "name": "array-manp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array manipulation containing JSON objects,grouping of adjacent objects based on object property",
   "main": "index.js",
   "scripts": {
