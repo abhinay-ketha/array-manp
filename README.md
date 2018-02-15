@@ -4,7 +4,7 @@ It's main purpose is to manipulate Array containing JSON objects,grouping of adj
 
 Install using
 
-npm install array-manp
+npm install array-manp --save
 
 var arrayManpulator = require('array-manp');
 
@@ -17,7 +17,6 @@ Simple example of
 
 var array =
 
-'''
 [
     {
         "time": "2018-02-09T06:36:07.650Z",
@@ -70,7 +69,6 @@ var array =
         "speaker": "bot"
     }
 ]
-'''
 
 var arrayManpulator = require('array-manp');
 
@@ -78,7 +76,6 @@ var result = arrayManpulator.groupByAdjacence(data,'speaker')
 
 //Expected result value
 
-'''
 [
   {
     "speaker": "user",
@@ -161,4 +158,3 @@ var result = arrayManpulator.groupByAdjacence(data,'speaker')
     ]
   }
 ]
-'''
